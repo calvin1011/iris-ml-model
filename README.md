@@ -41,6 +41,9 @@ Each model includes:
 ```bash
 pip install scikit-learn
 ````
+```bash
+pip install pandas
+```
 
 2. Run the script:
 
@@ -93,8 +96,6 @@ Accuracy: 0.977...
 ---
 
 ## Learning Objectives
-
-By completing this assignment, you demonstrate the ability to:
 
 * Load and preprocess data
 * Implement classification, regression, and neural networks
