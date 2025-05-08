@@ -1,6 +1,3 @@
-Here's a complete and clean `README.md` file tailored for your assignment:
-
----
 # Machine Learning Models with Iris Dataset
 
 ## Overview
