@@ -37,7 +37,7 @@ Each model includes:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Install required packages (if not already installed):
 
